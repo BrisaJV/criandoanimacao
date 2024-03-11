@@ -9,7 +9,7 @@ function setup() {
   let posicaoVertical; // y
   
   function setup() {
-    createCanvas(1080, 920);
+    createCanvas(1080, 1920);
      background("yellow");
     cor = color(random(0,255), random(0,255), random(0,255));
     posicaoHorizontal = 200;
